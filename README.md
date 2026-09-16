@@ -238,3 +238,6 @@ RedM is offered as a full free version with all features and updates included. T
 ---
 
 Embark on your Wild West adventure today! Download RedM now and experience the thrill of multiplayer gaming like never before.
+
+---
+**Last updated:** 2026-09-16 12:25:37 UTC
